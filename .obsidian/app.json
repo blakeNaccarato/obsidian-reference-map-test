@@ -1,4 +1,5 @@
 {
   "defaultViewMode": "source",
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": true
 }
