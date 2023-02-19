@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "917abfc24fbc1074",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff0aba98be74418c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9612da4fd4ad256a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "citekey-tests.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb26621665bf144d",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa0bc1a006879a88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "146a7dcd742fbfb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "747347b3909e857f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51d0b6f5b9cad709",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6554ae8d71befabc",
+    "type": "split",
+    "children": [
+      {
+        "id": "26f405fd330bb588",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43c24b08f07eba64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "citekey-tests.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44d59c668d94ef2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "citekey-tests.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79b171cefed89f69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "337331dc8c4434b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "citekey-tests.md"
+              }
+            }
+          },
+          {
+            "id": "00119d40b70188ac",
+            "type": "leaf",
+            "state": {
+              "type": "reference-map-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "reference-map:Reference Map": false
+    }
+  },
+  "active": "9612da4fd4ad256a",
+  "lastOpenFiles": [
+    "at-prefixed-citekey.md",
+    "citekey-tests.md",
+    "markdown-link.md",
+    "markdown-link-alt-text.md",
+    "wikilink.md",
+    "wikilink-alt-text.md"
+  ]
+}
