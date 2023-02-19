@@ -1,1 +1,1 @@
-[[citekey | alternative text]]
+[[citekey |alternative text]].

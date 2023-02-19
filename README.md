@@ -29,27 +29,15 @@ npm run dev
 
 Now open the vault at `~/obsidian-reference-map-test` in Obsidian.
 
-## Passing tests
+## Test failures
 
-Here are some notable passing tests:
+The subdirectories in this repo indicate which tests are currently passing and which tests are failing. Current test failures:
 
-- wikilink: A trivial Markdown note with a single citekey in a WikiLink
-- wikilink-alt-text: A trivial markdown note with a single citekey in a WikiLink with alt text
+- Markdown links
+- Markdown links with alt text
+- Consecutive Wikilink citekeys in two sentences.
+- Wikilinks with alt text but no space prior to the "pipe"
 
-### Citekeys with `@` on separate lines
+Current untested behavior
 
-![](at-prefixed-citekeys-on-separate-lines.png)
-
-## Failing tests
-
-Here are some notable failing tests:
-
-- markdown-link
-- markdown-link-alt-text
-- mixed-citekey-tests
-
-### Citekeys with `@` on the same line
-
-We should see five references in the sidebar, but we only see one.
-
-![](at-prefixed-citekeys-on-same-line.png)
+- Obsidian Block links

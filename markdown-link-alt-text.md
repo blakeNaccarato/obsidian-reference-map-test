@@ -1,1 +1,0 @@
-[citekey | alternative text]()
