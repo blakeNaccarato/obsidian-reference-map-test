@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "citekey-tests.md",
+                "file": "at-prefixed-citekeys-on-same-line.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dfacefd03fe75adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "citekey-tests.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "citekey-tests.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "citekey-tests.md"
+                "file": "README.md"
               }
             }
           },
@@ -164,12 +176,12 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "146a7dcd742fbfb0",
+  "active": "dfacefd03fe75adb",
   "lastOpenFiles": [
-    "citekey-tests.md",
+    "at-prefixed-citekeys-on-same-line.md",
+    "at-prefixed-citekeys-on-separate-lines.md",
     "citekey-tests.md",
     "markdown-link.md",
-    "at-prefixed-citekey.md",
     "markdown-link-alt-text.md",
     "wikilink.md",
     "wikilink-alt-text.md"
