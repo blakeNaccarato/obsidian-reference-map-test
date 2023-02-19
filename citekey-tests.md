@@ -1,1 +1,1 @@
-Markdown link [citekey](). Markdown link alt text [citekey2 | alternative text](). WikiLink [[citekey3]]. WikiLink alt text [[citekey4 | alternative text]].
+At prefixed citekey @citekey. Markdown link [citekey2](). Markdown link alt text [citekey3 | alternative text](). WikiLink [[citekey4]]. WikiLink alt text [[citekey5 | alternative text]].

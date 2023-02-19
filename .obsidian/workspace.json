@@ -11,15 +11,24 @@
             "id": "9612da4fd4ad256a",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b79cef27c6f6a44a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "citekey-tests.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,11 +164,12 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "9612da4fd4ad256a",
+  "active": "146a7dcd742fbfb0",
   "lastOpenFiles": [
-    "at-prefixed-citekey.md",
+    "citekey-tests.md",
     "citekey-tests.md",
     "markdown-link.md",
+    "at-prefixed-citekey.md",
     "markdown-link-alt-text.md",
     "wikilink.md",
     "wikilink-alt-text.md"
