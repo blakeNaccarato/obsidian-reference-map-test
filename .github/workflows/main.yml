@@ -1,0 +1,10 @@
+name: "main"
+
+on: ["workflow_dispatch", "push"]
+
+jobs:
+  changes:
+    runs-on: "ubuntu-latest"
+    steps:
+      - uses: "actions/checkout@v3.3.0"
+      - run: "echo 'The success of this trivial job enables automerging bot PRs.'"

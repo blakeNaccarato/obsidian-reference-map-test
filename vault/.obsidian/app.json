@@ -1,5 +1,6 @@
 {
   "defaultViewMode": "source",
   "promptDelete": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }

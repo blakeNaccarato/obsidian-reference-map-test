@@ -1,0 +1,3 @@
+[submodule "vault/.obsidian/plugins/obsidian-reference-map"]
+	path = vault/.obsidian/plugins/obsidian-reference-map
+	url = https://github.com/anoopkcn/obsidian-reference-map.git

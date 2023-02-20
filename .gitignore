@@ -1,2 +1,4 @@
-.obsidian/plugins
-.obsidian/workspace.json
+vault/.obsidian/*
+!vault/.obsidian/app.json
+!vault/.obsidian/community-plugins.json
+!vault/.obsidian/hotkeys.json
