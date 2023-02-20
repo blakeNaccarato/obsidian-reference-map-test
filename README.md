@@ -9,7 +9,7 @@ git submodule update --init --recursive
 Change directories to the submodule and install it:
 
 ```Shell
-cd .obsidian/plugins/obsidian-reference-map
+cd vault/.obsidian/plugins/obsidian-reference-map
 npm install
 ```
 
