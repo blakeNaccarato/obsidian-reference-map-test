@@ -2,3 +2,4 @@ vault/.obsidian/*
 !vault/.obsidian/app.json
 !vault/.obsidian/community-plugins.json
 !vault/.obsidian/hotkeys.json
+!vault/.obsidian/plugins/obsidian-reference-map
